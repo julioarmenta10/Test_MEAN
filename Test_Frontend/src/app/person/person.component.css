@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 0%;
+  }
+
+
+  .center{
+    margin:30px;
+  }
+  
+.direction{
+  display: flex; flex-direction: row;
+}
+
+.custombutton{
+  height: 40px;
+  align-self: center;
+  margin-left: 5px;
+}
